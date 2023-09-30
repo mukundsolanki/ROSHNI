@@ -1,0 +1,26 @@
+pip install SpeechRecognition
+
+pip install numpy
+
+pip install opencv-python
+
+pip install PyAudio
+
+pip install pyttsx3
+
+pip install python-dotenv
+
+pip install playsound
+
+pip install ultralytics
+
+pip install pytesseract
+
+pip install easyocr
+
+pip install 
+
+# Raspi libs
+    pip install gpiozero
+    pip install picamera
+    pip install gTTS
