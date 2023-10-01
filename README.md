@@ -1,5 +1,5 @@
+![ROSHNI](https://github.com/mukundsolanki/ROSHNI/assets/114515612/96adbc67-c361-4422-a27c-28b31aef7fca)
 # ROSHNI 👁️
-
 AI-powered smart-companion glasses for the visually impaired.
 
 ## Problem statement and target audience
